@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SLC",
+                "team2Abbr": "OSHA",
+                "patternName": "methuselahdense",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "046ed932-f258-4a4d-acc2-e4ef67adb29a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "lockpickfence",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "d5cb5a08-c8ec-4a62-9f57-71ae61e95ae0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Gilbert Monotheists",
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF",
+                "patternName": "patiolights",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "cfa548d1-d36d-46c5-9437-6261264f7b59",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Casa Grande Laptop Thieves",
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO",
+                "patternName": "sunburst",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "29c34824-9739-4f42-9b8f-3c028a74958f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SLC",
+                "team2Abbr": "OSHA",
+                "patternName": "sunburst",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "776ea2fa-8b06-463c-a41e-5833ab204527",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "random",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "e616010b-54a0-41bf-b26c-2198beb7e1d8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Gilbert Monotheists",
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF",
+                "patternName": "lockpickfence",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "47533a6a-0607-4020-a812-943da46abe16",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Casa Grande Laptop Thieves",
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO",
+                "patternName": "methuselahdense",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "71e1d2c7-5798-4124-9082-21da85a9ed41",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Chandler Inspectors",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SLC",
+                "patternName": "stickyheptominos",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "9609b3aa-b08c-4818-a497-8191b5ca95df",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Bullhead City Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "randompartition",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "5cde9026-4abb-47df-a370-32ffa92ce696",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Prescott Universal Constants",
+                "team1Abbr": "MILF",
+                "team2Abbr": "ORL",
+                "patternName": "randomsegment",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "e3c8e63f-624b-4e99-9701-3b8ac45267f2",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Sun City Couchfeet",
+                "team1Abbr": "DECO",
+                "team2Abbr": "SAC",
+                "patternName": "methuselahsparse",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "97a98eb6-b65c-40a4-bfda-cb64d42b40e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Chandler Inspectors",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SLC",
+                "patternName": "stickyheptominos",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "96bf8fbe-caf4-4c7c-b9d9-6232e40162e9",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Bullhead City Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "methuselahdense",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "99b51f92-913d-4da6-a778-6c37d59dccac",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Prescott Universal Constants",
+                "team1Abbr": "MILF",
+                "team2Abbr": "ORL",
+                "patternName": "gaussian",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "5b31a166-4ad0-4d3b-9964-00f409b211c8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Sun City Couchfeet",
+                "team1Abbr": "DECO",
+                "team2Abbr": "SAC",
+                "patternName": "randomsegment",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "e36f3fdb-08d6-4f14-94f3-d9491bb8282c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SLC",
+                "team2Abbr": "OSHA",
+                "patternName": "randompartition",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "83507b50-fb2e-4be0-a5a3-47af989bea52",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 1,
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Lake Havasu City Counter-Spies",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "patiolights",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "ae25b080-3af2-4c96-a02c-be80cfb2dfa0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Gilbert Monotheists",
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF",
+                "patternName": "methuselahsparse",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "6fc92ac8-8a4d-448c-8608-2c73b0aae8ee",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 1,
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Casa Grande Laptop Thieves",
+                "team1Abbr": "SAC",
+                "team2Abbr": "DECO",
+                "patternName": "stickyheptominos",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "bf375c4e-4530-4701-9113-a89208c928a7",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "league": "Cold League",
+                "season": 1,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "07be64d0-e659-4419-ad66-ac2a7b2f65b2",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahsparse",
+                "league": "Hot League",
+                "season": 1,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "c4d46584-65d0-4804-926d-6b598ce5d4bd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lockpickfence",
+                "league": "Cold League",
+                "season": 1,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "75854471-1130-4e9e-ad7e-ddc41e2a7326",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "league": "Hot League",
+                "season": 1,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "b9e8034c-7207-4b99-880f-99b931be5f27",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "tripledouble",
+                "league": "Cold League",
+                "season": 1,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "7f1574c3-597c-4bb7-8bbb-a52e985c9d31",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "league": "Hot League",
+                "season": 1,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "05792607-8b3f-4d19-abbb-59e446d18f21",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 1,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "09b59876-cc73-4216-a921-60a4c9c45f95",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Hot League",
+                "season": 1,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "ee702f31-46b8-431a-9d36-2d84e1e96d36",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "league": "Cold League",
+                "season": 1,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "8376a7a9-10de-429e-bfc4-2ea3edef9265",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "league": "Hot League",
+                "season": 1,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "158e2b65-14d4-4870-aa0a-42eb4d60c303",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "description": "Game 1, Pseudo Cup",
+                "season": 1,
+                "id": "de5d3706-24bc-4124-a6f0-1089b4e9b453",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "description": "Game 2, Pseudo Cup",
+                "season": 1,
+                "id": "72cbc977-c51d-4cbd-9920-eee76d8f1365",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "description": "Game 3, Pseudo Cup",
+                "season": 1,
+                "id": "20bd0aeb-94a1-4552-a7aa-e5adc8af4f75",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "description": "Game 4, Pseudo Cup",
+                "season": 1,
+                "id": "93ddc97c-3ade-4f26-9945-15dd16a6ee7e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "description": "Game 5, Pseudo Cup",
+                "season": 1,
+                "id": "b6c6bacd-5101-4948-adf6-c6b203f5fa13",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stickyheptominos",
+                "description": "Game 6, Pseudo Cup",
+                "season": 1,
+                "id": "e1821953-7b5e-4d9b-a39f-39eec81264ba",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lockpickfence",
+                "description": "Game 7, Pseudo Cup",
+                "season": 1,
+                "id": "f3bbfd33-98c9-4c0e-99f2-4af88b84a370",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
