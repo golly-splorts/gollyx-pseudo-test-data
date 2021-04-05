@@ -1,3 +1,3 @@
-# golly-test-data
+# gollyx-pseudo-test-data
 
-Test season/postseason data for Golly
+Test season/postseason data for GollyX Pseudo Cup
