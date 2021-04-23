@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Yakima Shells",
+                "team2Name": "West Valley Squab",
+                "team1Abbr": "SS",
+                "team2Abbr": "SDBA",
+                "patternName": "sunburst",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "b427d8cc-9d3a-4da2-8b8b-7e2107400fd1",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Inglewood Kilocalories",
+                "team2Name": "Walla Walla Clamp Lamps",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SLC",
+                "patternName": "nastynonominos",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "6335597d-4f0d-4ba7-abb4-dfa02869025f",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Sammamish Bernoullis",
+                "team2Name": "Spokane Kleptomaniacs",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL",
+                "patternName": "patiolights",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "595eff84-5875-4581-a568-7876280de1e1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Shoreline Isobars",
+                "team2Name": "Olympia Hucksters",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "DET",
+                "patternName": "bigsegment",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "621440c8-0bf1-48d5-b149-09e2e7554c6b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Yakima Shells",
+                "team2Name": "West Valley Squab",
+                "team1Abbr": "SS",
+                "team2Abbr": "SDBA",
+                "patternName": "gaussian",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "46681f67-bfdc-4908-80ed-21d6dc6892fa",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Inglewood Kilocalories",
+                "team2Name": "Walla Walla Clamp Lamps",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SLC",
+                "patternName": "nastynonominos",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "b8806091-d9fb-4770-9724-3f44fe209b8d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Sammamish Bernoullis",
+                "team2Name": "Spokane Kleptomaniacs",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL",
+                "patternName": "patiolights",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "6fd922e4-69c5-4a7f-88d7-015fbc43ed10",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Shoreline Isobars",
+                "team2Name": "Olympia Hucksters",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "DET",
+                "patternName": "random",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "9f2ef61b-6c94-4757-83b8-8598fac7a961",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "West Valley Squab",
+                "team2Name": "Yakima Shells",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "SS",
+                "patternName": "randompartition",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "1b5478aa-f6d2-4f91-a706-dc98b4dfb39a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Walla Walla Clamp Lamps",
+                "team2Name": "Inglewood Kilocalories",
+                "team1Abbr": "SLC",
+                "team2Abbr": "LBFB",
+                "patternName": "stretchydog",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "1951b4df-aee0-46a1-845b-1b7ea76a0feb",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Spokane Kleptomaniacs",
+                "team2Name": "Sammamish Bernoullis",
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS",
+                "patternName": "bigsegment",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "a86c3cc3-5e11-4853-8fb0-a8b75ad81933",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Olympia Hucksters",
+                "team2Name": "Shoreline Isobars",
+                "team1Abbr": "DET",
+                "team2Abbr": "ABQ",
+                "patternName": "randomsegment",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "02fe471f-3d9c-4543-b193-12e4b8ba1710",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "West Valley Squab",
+                "team2Name": "Yakima Shells",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "SS",
+                "patternName": "gaussian",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "84e95a87-6a57-4530-97ab-f5752b853f0d",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Walla Walla Clamp Lamps",
+                "team2Name": "Inglewood Kilocalories",
+                "team1Abbr": "SLC",
+                "team2Abbr": "LBFB",
+                "patternName": "randompartition",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "93d6dd35-d764-4c7f-804f-71a5c9a8beb9",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Spokane Kleptomaniacs",
+                "team2Name": "Sammamish Bernoullis",
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS",
+                "patternName": "nastynonominos",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "a5ed5e0e-fb90-4d63-805f-b4a8c8be2c18",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Olympia Hucksters",
+                "team2Name": "Shoreline Isobars",
+                "team1Abbr": "DET",
+                "team2Abbr": "ABQ",
+                "patternName": "tripledouble",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "db1b4d57-d49f-4d88-a60a-dedc735760fe",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Yakima Shells",
+                "team2Name": "West Valley Squab",
+                "team1Abbr": "SS",
+                "team2Abbr": "SDBA",
+                "patternName": "randompartition",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Cold League 1",
+                "id": "a6b0609a-f70a-4007-94cc-10772322201e",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 2,
+                "team1Name": "Inglewood Kilocalories",
+                "team2Name": "Walla Walla Clamp Lamps",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SLC",
+                "patternName": "methuselahdense",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Cold League 2",
+                "id": "b474a2fc-1ca1-4bf5-80d0-4c2c6f9426e7",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Sammamish Bernoullis",
+                "team2Name": "Spokane Kleptomaniacs",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL",
+                "patternName": "random",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Hot League 1",
+                "id": "4e569480-3f42-4e85-87dd-d0be57c5cb0f",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 2,
+                "team1Name": "Shoreline Isobars",
+                "team2Name": "Olympia Hucksters",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "DET",
+                "patternName": "bigsegment",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Hot League 2",
+                "id": "9ed2a5e2-43c1-4003-aff7-a7e6daa11dcf",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "league": "Cold League",
+                "season": 2,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "19669d8d-ac64-4fef-805e-e9d3a39afcb9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "league": "Hot League",
+                "season": 2,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "8d3e1d72-b1de-4aac-80b3-6724986a97b2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lockpickfence",
+                "league": "Cold League",
+                "season": 2,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "966df129-62b6-4c7f-8e7e-60ed6f3b103d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "league": "Hot League",
+                "season": 2,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "56aaac4e-66ef-487c-98f4-59f09bd92f06",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "tripledouble",
+                "league": "Cold League",
+                "season": 2,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "c1f8a939-09d7-400a-8480-847fd19c4409",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "league": "Hot League",
+                "season": 2,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "b6141f4f-4577-45d0-b9ea-e13a2e26b7e6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "league": "Cold League",
+                "season": 2,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "6e146753-4e8f-4401-9099-f2cf42afdef0",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "tripledouble",
+                "league": "Hot League",
+                "season": 2,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "d7d70804-4272-49ce-bbaa-78c39328ace3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stickyheptominos",
+                "league": "Cold League",
+                "season": 2,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Cold League",
+                "id": "33de2df2-d6d9-4920-88d4-59fd4fff3968",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "tripledouble",
+                "league": "Hot League",
+                "season": 2,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Hot League",
+                "id": "98d0f1d5-ec12-400b-8345-208773ab3f79",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahsparse",
+                "description": "Game 1, Pseudo Cup",
+                "season": 2,
+                "id": "77348d8c-f4ae-4858-a5b3-efa73378205c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "description": "Game 2, Pseudo Cup",
+                "season": 2,
+                "id": "206a0c0f-9bda-4b9c-8fef-2fe9a9d45fed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "description": "Game 3, Pseudo Cup",
+                "season": 2,
+                "id": "15b973c7-a681-4cfa-9efe-6280d222bd81",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 4, Pseudo Cup",
+                "season": 2,
+                "id": "925b8344-c4e3-432f-9f78-f8630a8355be",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "description": "Game 5, Pseudo Cup",
+                "season": 2,
+                "id": "27f0f178-988c-4144-b257-bb64c77d153e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "description": "Game 6, Pseudo Cup",
+                "season": 2,
+                "id": "c0a72b97-63f0-4331-a1ed-88834753e096",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "description": "Game 7, Pseudo Cup",
+                "season": 2,
+                "id": "c812b707-97fa-424d-b184-d14d31952750",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
