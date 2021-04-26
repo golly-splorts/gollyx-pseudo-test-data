@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Rodeo Glasgows",
+                "team2Name": "Lagunitas Boat Shoes",
+                "team1Abbr": "SCS",
+                "team2Abbr": "CYC",
+                "patternName": "stickyheptominos",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "195504b9-e7b1-4e55-89ff-1808b223e5f2",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Bolinas Zeros",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "SSS",
+                "team2Abbr": "AI",
+                "patternName": "randomsegment",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "bf17cdca-01e0-478c-a63a-eb73b0f96c84",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Shandon Intellectuals",
+                "team2Name": "Parlier Inspectors",
+                "team1Abbr": "ST",
+                "team2Abbr": "SJA",
+                "patternName": "nastynonominos",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "5a6ef215-8948-4b13-afb7-fb65ef5bceaa",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Biggs Devils",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "RS",
+                "patternName": "tripledouble",
+                "description": "Game 1, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "047f9b0a-8962-4720-8749-a40765e9627a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Rodeo Glasgows",
+                "team2Name": "Lagunitas Boat Shoes",
+                "team1Abbr": "SCS",
+                "team2Abbr": "CYC",
+                "patternName": "sunburst",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "ce4d458c-e362-4e0d-823b-d2668b8c76b8",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Bolinas Zeros",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "SSS",
+                "team2Abbr": "AI",
+                "patternName": "tripledouble",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "737fc823-4be5-4e34-b557-bad3ebdba01a",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Shandon Intellectuals",
+                "team2Name": "Parlier Inspectors",
+                "team1Abbr": "ST",
+                "team2Abbr": "SJA",
+                "patternName": "patiolights",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "b41dc194-f4b8-4898-98e9-1c68f0515d39",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Biggs Devils",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "RS",
+                "patternName": "nastynonominos",
+                "description": "Game 2, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "6614e504-96d9-41e4-a9f0-61c74eee4edf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Lagunitas Boat Shoes",
+                "team2Name": "Rodeo Glasgows",
+                "team1Abbr": "CYC",
+                "team2Abbr": "SCS",
+                "patternName": "nastynonominos",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "b911568f-fa1a-4322-a8fc-cf4724087909",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "East Oakdale Keymakers",
+                "team2Name": "Bolinas Zeros",
+                "team1Abbr": "AI",
+                "team2Abbr": "SSS",
+                "patternName": "patiolights",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "c15084ed-d9d0-4084-be49-54789112f7d9",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Parlier Inspectors",
+                "team2Name": "Shandon Intellectuals",
+                "team1Abbr": "SJA",
+                "team2Abbr": "ST",
+                "patternName": "stretchydog",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "183aa9bf-42e0-4a84-8a0c-4496a1b01ab8",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Eldridge Equilibrators",
+                "team2Name": "Biggs Devils",
+                "team1Abbr": "RS",
+                "team2Abbr": "SGSC",
+                "patternName": "lockpickfence",
+                "description": "Game 3, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "99bb7697-8f7f-404a-a5e8-f5f17e421f3f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Lagunitas Boat Shoes",
+                "team2Name": "Rodeo Glasgows",
+                "team1Abbr": "CYC",
+                "team2Abbr": "SCS",
+                "patternName": "patiolights",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "13c0abd6-ad5e-4f66-ae70-2170599e2a7d",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "East Oakdale Keymakers",
+                "team2Name": "Bolinas Zeros",
+                "team1Abbr": "AI",
+                "team2Abbr": "SSS",
+                "patternName": "methuselahsparse",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "3ebdc0e1-61b5-4077-9adf-def016dd97aa",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Parlier Inspectors",
+                "team2Name": "Shandon Intellectuals",
+                "team1Abbr": "SJA",
+                "team2Abbr": "ST",
+                "patternName": "tripledouble",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "cb919268-476a-4e26-90d6-038bbc8a0452",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Eldridge Equilibrators",
+                "team2Name": "Biggs Devils",
+                "team1Abbr": "RS",
+                "team2Abbr": "SGSC",
+                "patternName": "randomsegment",
+                "description": "Game 4, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "1dfe9070-9037-472e-97ca-fb1a63ce7e20",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Rodeo Glasgows",
+                "team2Name": "Lagunitas Boat Shoes",
+                "team1Abbr": "SCS",
+                "team2Abbr": "CYC",
+                "patternName": "gaussian",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 1",
+                "id": "71ac005b-7727-4f42-a2e7-df787a6b943f",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Bolinas Zeros",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "SSS",
+                "team2Abbr": "AI",
+                "patternName": "methuselahsparse",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, Monterey Bay League 2",
+                "id": "bc34098f-a127-4e74-8d58-cb8ce752b953",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Shandon Intellectuals",
+                "team2Name": "Parlier Inspectors",
+                "team1Abbr": "ST",
+                "team2Abbr": "SJA",
+                "patternName": "random",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, San Francisco Bay League 1",
+                "id": "d6969972-352c-4f11-9877-8fc036967600",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Biggs Devils",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "SGSC",
+                "team2Abbr": "RS",
+                "patternName": "sunburst",
+                "description": "Game 5, Pseudo Cup Egalitarian Eight, San Francisco Bay League 2",
+                "id": "ecdb0724-7efb-4b28-96b1-18367030611f",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "96e1bc8d-16b1-4b7f-8bd1-004491c20ea5",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 1, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "f45dd856-ad77-42b7-9b74-e1f285bf090b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahsparse",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "b6a98e36-d38e-492f-93cf-64a496f92d1c",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 2, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "64b1bc06-bd9d-4673-834a-e923051c3ece",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stretchydog",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "c07eaf77-3c95-4c24-b07d-0c9af1ddbb1f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 3, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "0b15d30a-0a56-4fc2-829f-3d454181e35d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "8a18eed1-3ddf-4a06-817f-f7a7abeda622",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "sunburst",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 4, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "d2b24f85-b700-47ca-897c-91273dfa9c3a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, Monterey Bay League",
+                "id": "e9e24668-d014-439c-acdc-d7a10c6a540b",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stickyheptominos",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 5, Pseudo Cup Fortuitous Four, San Francisco Bay League",
+                "id": "9138508e-4fbe-42b0-a147-49fe7dffb3ec",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gaussian",
+                "description": "Game 1, Pseudo Cup",
+                "season": 1,
+                "id": "3594a6d4-6f38-4dc6-a411-8500ca6e554f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "description": "Game 2, Pseudo Cup",
+                "season": 1,
+                "id": "e966f742-7402-4447-b903-945a5a64b195",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "description": "Game 3, Pseudo Cup",
+                "season": 1,
+                "id": "01d97b09-b3dc-48bf-8b05-4921ec5b3ddf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "description": "Game 4, Pseudo Cup",
+                "season": 1,
+                "id": "c44eb11d-b978-4160-aa47-c3623e5679fd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "description": "Game 5, Pseudo Cup",
+                "season": 1,
+                "id": "7420d26f-b608-478e-b7b1-9aad00bfb8b2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stretchydog",
+                "description": "Game 6, Pseudo Cup",
+                "season": 1,
+                "id": "ec880163-3322-4657-a5b3-2ba7e6e7a37b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "methuselahdense",
+                "description": "Game 7, Pseudo Cup",
+                "season": 1,
+                "id": "e6244a42-a08e-4300-a91b-5c9b62ca5e99",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
