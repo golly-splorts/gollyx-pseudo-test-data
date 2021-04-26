@@ -11,7 +11,7 @@
             "id": "73ddb387-51ad-4c14-869a-2efb3dc18160",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#9963ab"
         },
         {
@@ -209,7 +209,7 @@
             "id": "c57ab657-f980-4bc9-b545-65571aa78728",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#a0e7e5"
         },
         {
@@ -323,7 +323,7 @@
             "id": "d4dca525-62be-4d5f-b7c0-957fa508ed04",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#00cc44"
         },
         {
@@ -480,7 +480,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Livingston Necessities",
@@ -621,7 +621,7 @@
             "id": "c9fa08ea-3ce5-4666-9a82-744ec9208c77",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff66cc"
         },
         {
@@ -735,7 +735,7 @@
             "id": "76ba7881-8223-4ad2-ae55-e286c74cef9a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#e86215"
         },
         {
@@ -919,7 +919,7 @@
             "id": "353c68da-d21f-4dbd-9e8e-b148a1109868",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#e7d7c1"
         },
         {
@@ -1062,7 +1062,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -1190,7 +1190,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Lagunitas Boat Shoes",
