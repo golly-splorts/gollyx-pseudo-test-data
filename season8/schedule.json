@@ -95,7 +95,7 @@
             "id": "c99a1d82-f287-4db0-8340-358489389482",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627"
         },
         {
@@ -124,7 +124,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Lenwood Pipefitters",
@@ -265,8 +265,8 @@
             "id": "f4b9d9f8-a1fc-473a-a5b2-e2ce8a5697ea",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000"
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -365,7 +365,7 @@
             "id": "2bc37802-7935-4e3c-b25c-3f311f1c4834",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         },
         {
@@ -407,7 +407,7 @@
             "id": "05ce6412-c21f-4d12-ac22-72b2df113475",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199"
         },
         {
@@ -535,8 +535,8 @@
             "id": "e3870352-c906-43ec-8923-973a407ebdc8",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000"
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -664,7 +664,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -706,7 +706,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -833,7 +833,7 @@
             "id": "6fc603a4-d49d-43d0-959e-6a039258800e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         },
         {
@@ -848,7 +848,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -947,8 +947,8 @@
             "id": "344d0aae-a279-4b66-888c-77729595dcd5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000"
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -1118,7 +1118,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Eldridge Equilibrators",
@@ -1131,7 +1131,7 @@
             "id": "e8b29791-3bb8-4c58-84c5-db165c5fc2d5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         }
     ],
@@ -1232,7 +1232,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Foresthill Shooting Stars",
@@ -1273,7 +1273,7 @@
             "id": "ea644fbc-0d11-4c0b-8240-26414765fb26",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e"
         }
     ]
