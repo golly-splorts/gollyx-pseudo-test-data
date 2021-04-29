@@ -39,7 +39,7 @@
             "id": "33b5fb2f-ed05-40ad-87d7-693379aca946",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -110,7 +110,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Eldridge Equilibrators",
@@ -123,7 +123,7 @@
             "id": "4b4b47a8-2bc0-4c70-a62e-0ecb1eead771",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627"
         },
         {
@@ -195,7 +195,7 @@
             "id": "9ee1fb91-f1bd-4535-8d24-6dd510870b56",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#ff66cc"
         },
         {
@@ -237,7 +237,7 @@
             "id": "deee5a65-4872-4541-8654-784609ce7e32",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         },
         {
@@ -252,7 +252,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -337,7 +337,7 @@
             "id": "d0583067-3312-4713-9c03-18c9bd36db1a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1"
         },
         {
@@ -393,8 +393,8 @@
             "id": "349ac021-8779-4213-893b-0d80f969a1b0",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
-            "team2Color": "#ff1717"
+            "team1Color": "#ff1717",
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Brownsville Oxidation",
@@ -437,7 +437,7 @@
             "id": "293cee8b-8bc7-4a2b-b8cf-f6f0e38f2e18",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#fefe67"
         },
         {
@@ -550,7 +550,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Shandon Intellectuals",
@@ -563,7 +563,7 @@
             "id": "e97e05fc-73c9-41af-82f6-9dd960f4545a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ],
@@ -607,7 +607,7 @@
             "id": "d5d51efb-c0c5-4fb3-a25f-4956422b30eb",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -649,7 +649,7 @@
             "id": "6953bac9-3f6e-4f07-9db6-928e6908dd7f",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         },
         {
@@ -705,7 +705,7 @@
             "id": "d462bf1a-241f-4feb-b686-8a27ac7c3ba5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         }
     ],
@@ -763,7 +763,7 @@
             "id": "7a35c342-4a63-4f4d-b643-49d0018cff19",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {
@@ -791,7 +791,7 @@
             "id": "ca73ca9e-4458-4353-8214-46ca311c8d5f",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ef6f6c"
         },
         {
@@ -820,7 +820,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#f08700",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -891,7 +891,7 @@
             "id": "78dd35fa-6e95-4d34-9e9c-9f98572824af",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {
@@ -961,7 +961,7 @@
             "id": "1da51acd-015d-4535-bd7b-3b8f1cf377b8",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -975,7 +975,7 @@
             "id": "61c008b9-0e55-4c48-9f7b-bbdb699fe905",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21"
         },
         {
@@ -1047,7 +1047,7 @@
             "id": "c3a6d8ff-9d06-4e52-a2fc-a602e53fd37a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Lenwood Pipefitters",
@@ -1103,7 +1103,7 @@
             "id": "f97f102c-e959-4818-ad9c-38b01ab9a74d",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1175,7 +1175,7 @@
             "id": "ba0e0edd-511f-40d1-a742-6016722ed2a8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {
@@ -1246,7 +1246,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -1274,7 +1274,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ]
 ]
