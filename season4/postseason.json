@@ -75,7 +75,7 @@
                 "team1Score": 19,
                 "team2Score": 44,
                 "generations": 2257,
-                "team1Color": "#a0e7e8",
+                "team1Color": "#bb0000",
                 "team2Color": "#3e92cc",
                 "day": 9,
                 "team1PostseasonWinLoss": [
@@ -265,7 +265,7 @@
                 "team1Score": 52,
                 "team2Score": 104,
                 "generations": 3198,
-                "team1Color": "#a0e7e8",
+                "team1Color": "#bb0000",
                 "team2Color": "#3e92cc",
                 "day": 10,
                 "team1PostseasonWinLoss": [
@@ -456,7 +456,7 @@
                 "team2Score": 40,
                 "generations": 2011,
                 "team1Color": "#3e92cc",
-                "team2Color": "#a0e7e8",
+                "team2Color": "#bb0000",
                 "day": 11,
                 "team1PostseasonWinLoss": [
                     2,

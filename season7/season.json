@@ -86,7 +86,7 @@
             "id": "c4aadb3e-90a0-4ace-9bdf-eb37129bd8e2",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "bigsegment",
@@ -315,7 +315,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "sunburst",
                 "mapName": "Sunburst",
@@ -353,7 +353,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -468,7 +468,7 @@
             "id": "b3727816-6d35-41bb-8cb3-419de228dd1e",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215",
             "map": {
                 "patternName": "tripledouble",
@@ -621,7 +621,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -696,7 +696,7 @@
             "id": "dc9fe2d7-8193-4d79-b995-17dfa36328e7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "gaussian",
@@ -926,7 +926,7 @@
             "id": "e7073e4b-08c7-470b-a79b-8d9071f10ed7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "methuselahsparse",
@@ -964,7 +964,7 @@
             "id": "fccb492c-eacb-49f5-a54a-47f20dd8f6e6",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "gaussian",
@@ -1117,7 +1117,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randompartition",
                 "mapName": "Northeast Hellmouth's Revenge",
@@ -1195,7 +1195,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "nastynonominos",
                 "mapName": "The Filthy McNasty",
@@ -1347,7 +1347,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -1460,7 +1460,7 @@
             "id": "662ec39c-d8d0-4785-b9d1-b59905b90829",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "gaussian",
@@ -1538,7 +1538,7 @@
             "id": "69465369-88e4-4075-9345-ea9e8e74f21a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "stretchydog",
@@ -1880,8 +1880,8 @@
             "id": "dc333f87-5ddc-46ae-9786-c5fe8b89169c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
-            "team2Color": "#BB0000",
+            "team1Color": "#e7a0e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -1959,7 +1959,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "sunburst",
                 "mapName": "Sunburst",
@@ -2110,7 +2110,7 @@
             "id": "0f405c2a-4d84-48f8-89ae-fc9e30a44d1d",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#f08700",
             "map": {
                 "patternName": "lockpickfence",
@@ -2148,7 +2148,7 @@
             "id": "c37d309c-9d23-4c87-9536-03f75dccfe77",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0",
             "map": {
                 "patternName": "random",
@@ -2378,7 +2378,7 @@
             "id": "fdb9fd35-29cc-44c3-b5a1-20f29e57edac",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5",
             "map": {
                 "patternName": "stretchydog",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -2606,7 +2606,7 @@
             "id": "526b0230-1de9-432d-84b3-69d94829455f",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "gaussian",
@@ -2799,7 +2799,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "stretchydog",
                 "mapName": "Stretchydog",
@@ -2913,7 +2913,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -2950,7 +2950,7 @@
             "id": "d42330a0-f4e4-435e-a2fa-ba1d5b52fffe",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700",
             "map": {
                 "patternName": "nastynonominos",
@@ -3218,7 +3218,7 @@
             "id": "4420cfe5-0926-494e-a6d8-17847bec1968",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#a0e7e5",
             "map": {
                 "patternName": "methuselahsparse",
@@ -3332,7 +3332,7 @@
             "id": "4846b246-0bed-4347-8736-d62de51f6629",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e7a0e8",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "stretchydog",
@@ -3370,7 +3370,7 @@
             "id": "0fb061f4-c9ba-4caf-9db5-e3aa301fc56a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "random",
