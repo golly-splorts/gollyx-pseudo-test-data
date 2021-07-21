@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 11
+LAST_SEASON0 = 11
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
@@ -13,7 +13,7 @@ ABBR_TO_NAME = {
 }
 
 
-for iseason in range(NSEASONS + 1):
+for iseason in range(LAST_SEASON0 + 1):
     seasondir = "season%d" % (iseason)
 
     #####################
@@ -66,8 +66,8 @@ for iseason in range(NSEASONS + 1):
             err += f"Team 1 {t1} had specified team color {t1c}\n"
             err += f"Does not match get_team_color({t1}) = {get_team_color(t1)}"
             raise Exception(err)
-        t2 = game["team1Name"]
-        t2c = game["team1Color"]
+        t2 = game["team2Name"]
+        t2c = game["team2Color"]
         if t2c != get_team_color(t2):
             err = f"Error in game {game['id']} of season {game['season']} day {game['day']}:\n"
             err += f"Team 2 {t2} had specified team color {t2c}\n"
@@ -147,7 +147,7 @@ for iseason in range(NSEASONS + 1):
         for rk in req_keys:
             if rk not in mapp:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
         # for urk in unreq_keys:
         #    if urk in mapp:
@@ -158,11 +158,11 @@ for iseason in range(NSEASONS + 1):
         for rk in req_keys:
             if rk not in game:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
 
         wlsum1 = game["team1WinLoss"][0] + game["team1WinLoss"][1]
-        wlsum2 = game["team1WinLoss"][0] + game["team1WinLoss"][1]
+        wlsum2 = game["team2WinLoss"][0] + game["team2WinLoss"][1]
         if wlsum1 != (game["day"]):
             print(game)
             raise Exception(
@@ -222,7 +222,7 @@ for iseason in range(NSEASONS + 1):
         games = day
         for igame, game in enumerate(games):
             t1 = game["team1Name"]
-            t2 = game["team1Name"]
+            t2 = game["team2Name"]
 
             check_id(game)
             check_name_color_match(game)
