@@ -12,7 +12,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Val Verde Monarchists",
@@ -96,7 +96,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -210,7 +210,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Shandon Intellectuals",
@@ -252,7 +252,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -337,7 +337,7 @@
             "id": "68e38d31-058a-4247-854f-29fc12830097",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c"
         },
         {
@@ -394,7 +394,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -479,7 +479,7 @@
             "id": "e3c7f3b5-37df-4651-bbab-7ce8206b6843",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -522,7 +522,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -622,7 +622,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -649,7 +649,7 @@
             "id": "bf532c18-5526-4e16-8366-3e31cdde0ca5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e"
         },
         {
@@ -778,7 +778,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Shandon Intellectuals",
@@ -792,7 +792,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#BB0000",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -919,7 +919,7 @@
             "id": "434b1120-1c72-486e-a67f-92a511292a85",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -962,7 +962,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Shandon Intellectuals",
@@ -1033,7 +1033,7 @@
             "id": "d712fc1c-44af-42d8-8b28-97ee2fa42c32",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#fefe67"
         },
         {
@@ -1131,7 +1131,7 @@
             "id": "f227891f-afd1-4439-8301-e68bb42d85bb",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e"
         }
     ],
@@ -1204,7 +1204,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -1273,7 +1273,7 @@
             "id": "d093c0cd-cae6-4920-aaba-bbebf47dc8b3",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e"
         }
     ]

@@ -67,7 +67,7 @@
             "id": "8c70f365-cbf9-444e-ac21-a4642079b73c",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#ff66cc"
         },
         {
@@ -95,7 +95,7 @@
             "id": "304aa798-718b-4b72-8de3-dc9d97c80059",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#BB0000"
         },
         {
@@ -154,7 +154,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Val Verde Monarchists",
@@ -238,7 +238,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -338,7 +338,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "East Oakdale Keymakers",
@@ -408,7 +408,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Lenwood Pipefitters",
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -508,7 +508,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Foresthill Shooting Stars",
@@ -607,7 +607,7 @@
             "id": "3abf87e8-5c2e-4567-99f3-3284787c1253",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c"
         },
         {
@@ -705,7 +705,7 @@
             "id": "f2de9681-2001-468c-b97b-9d5094831d1b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199"
         }
     ],
@@ -721,7 +721,7 @@
             "id": "040050a2-577e-453b-9a36-673d2e6ca281",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5"
         },
         {
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -891,7 +891,7 @@
             "id": "dda9390d-ea46-4e4f-bb6d-3bd8a292ac2c",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#00cc44"
         },
         {
@@ -947,7 +947,7 @@
             "id": "4d8c6172-8f1a-4005-844a-1ffcfbdc3400",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#BB0000"
         },
         {
@@ -1034,7 +1034,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -1131,7 +1131,7 @@
             "id": "06bf2fb0-7792-4b7a-8f52-4fabd9c8f303",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199"
         }
     ],
@@ -1148,7 +1148,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -1259,7 +1259,7 @@
             "id": "70ec9ba9-01b7-41f2-9873-996b379b5df9",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#697a21"
         },
         {
