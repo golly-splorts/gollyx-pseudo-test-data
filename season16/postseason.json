@@ -76,7 +76,7 @@
                 "team2Score": 103,
                 "generations": 1425,
                 "team1Color": "#3e92cc",
-                "team2Color": "#a0e7e8",
+                "team2Color": "#ff1717",
                 "day": 9,
                 "team1PostseasonWinLoss": [
                     0,
@@ -266,7 +266,7 @@
                 "team2Score": 161,
                 "generations": 2019,
                 "team1Color": "#3e92cc",
-                "team2Color": "#a0e7e8",
+                "team2Color": "#ff1717",
                 "day": 10,
                 "team1PostseasonWinLoss": [
                     0,
@@ -455,7 +455,7 @@
                 "team1Score": 94,
                 "team2Score": 56,
                 "generations": 1392,
-                "team1Color": "#a0e7e8",
+                "team1Color": "#ff1717",
                 "team2Color": "#3e92cc",
                 "day": 11,
                 "team1PostseasonWinLoss": [
@@ -650,7 +650,7 @@
                 "team2Score": 92,
                 "generations": 2452,
                 "team1Color": "#9963ab",
-                "team2Color": "#a0e7e8",
+                "team2Color": "#ff1717",
                 "day": 13,
                 "team1PostseasonWinLoss": [
                     3,
@@ -746,7 +746,7 @@
                 "team2Score": 51,
                 "generations": 3409,
                 "team1Color": "#9963ab",
-                "team2Color": "#a0e7e8",
+                "team2Color": "#ff1717",
                 "day": 14,
                 "team1PostseasonWinLoss": [
                     3,
@@ -841,7 +841,7 @@
                 "team1Score": 41,
                 "team2Score": 183,
                 "generations": 1030,
-                "team1Color": "#a0e7e8",
+                "team1Color": "#ff1717",
                 "team2Color": "#9963ab",
                 "day": 15,
                 "team1PostseasonWinLoss": [
@@ -937,7 +937,7 @@
                 "team1Score": 52,
                 "team2Score": 69,
                 "generations": 1363,
-                "team1Color": "#a0e7e8",
+                "team1Color": "#ff1717",
                 "team2Color": "#9963ab",
                 "day": 16,
                 "team1PostseasonWinLoss": [

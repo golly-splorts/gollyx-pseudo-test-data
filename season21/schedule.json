@@ -11,7 +11,7 @@
             "id": "bba3b7a3-5850-458b-9329-265ff69f02c3",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#00cc44"
         },
         {
@@ -137,7 +137,7 @@
             "id": "967ef4a1-783f-43e8-bf6b-248f1f63aa0d",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ef6f6c"
         }
     ],
@@ -154,7 +154,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Chualar Penguins",
@@ -238,7 +238,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Foresthill Shooting Stars",
@@ -296,7 +296,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Val Verde Monarchists",
@@ -422,7 +422,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         }
     ],
     [
@@ -437,7 +437,7 @@
             "id": "2d9e8904-bcc3-4080-bbea-54556d53c7dd",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#fefe67"
         },
         {
@@ -508,7 +508,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -622,7 +622,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Chualar Penguins",
@@ -649,7 +649,7 @@
             "id": "6fecaa9c-d8f8-4b90-8f1a-33357cd804a8",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ffb627"
         },
         {
@@ -778,7 +778,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Biggs Devils",
@@ -805,7 +805,7 @@
             "id": "27f19adb-202f-4764-a7e8-a4ad2326fda3",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199"
         },
         {
@@ -906,7 +906,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Woodville Outhouses",
@@ -948,7 +948,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -1033,7 +1033,7 @@
             "id": "4d8e544f-c5d0-48fe-9d22-808eb4cbeee8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c"
         },
         {
@@ -1132,7 +1132,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#BB0000",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         }
     ],
     [
@@ -1148,7 +1148,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Lagunitas Boat Shoes",
@@ -1259,7 +1259,7 @@
             "id": "6120d69f-7848-47ef-bd03-482b8c34d461",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#697a21"
         },
         {

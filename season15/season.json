@@ -125,7 +125,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahsparse",
                 "mapName": "Seeds",
@@ -276,7 +276,7 @@
             "id": "eb705ec2-dff5-4cb4-bf0e-937d8fdcd1dd",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "methuselahsparse",
@@ -393,7 +393,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahdense",
                 "mapName": "Dance Hall",
@@ -582,7 +582,7 @@
             "id": "960a5903-b5f7-4042-a57c-2e3f46078836",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#b0b0b0",
             "map": {
                 "patternName": "randomsegment",
@@ -850,7 +850,7 @@
             "id": "6a46e6f4-5fd8-4011-9585-427ca2c4e8f6",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c",
             "map": {
                 "patternName": "gaussian",
@@ -1078,7 +1078,7 @@
             "id": "4b4990f1-96c6-4a54-8ff8-5a4cb87f10e7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "nastynonominos",
@@ -1156,7 +1156,7 @@
             "id": "47d16f42-210c-4a90-a8e5-6aa1790fe560",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "random",
@@ -1384,7 +1384,7 @@
             "id": "395b0f27-d3ff-4372-a53e-95531e7e3e3b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "methuselahsparse",
@@ -1652,7 +1652,7 @@
             "id": "24baf856-2182-4b79-a9b0-ce88da8a7133",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "map": {
                 "patternName": "methuselahdense",
@@ -1805,7 +1805,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "stretchydog",
                 "mapName": "Stretchydog",
@@ -1996,7 +1996,7 @@
             "id": "61c4573a-bb66-45b8-b5ab-1e6b747d10fb",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "stickyheptominos",
@@ -2263,7 +2263,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "patiolights",
                 "mapName": "The Porch",
@@ -2454,7 +2454,7 @@
             "id": "2d9fe18c-83ac-402d-a263-9071f4c44880",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "bigsegment",
@@ -2531,7 +2531,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "South Perimeter",
@@ -2723,7 +2723,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "sunburst",
                 "mapName": "Sunburst",
@@ -2989,7 +2989,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "randompartition",
                 "mapName": "Northeast Hellmouth's Revenge",
@@ -3142,7 +3142,7 @@
             "id": "569c06b8-f884-4eb4-8098-3b52b97cc6d3",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "random",
@@ -3295,7 +3295,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "methuselahsparse",
                 "mapName": "Seeds",

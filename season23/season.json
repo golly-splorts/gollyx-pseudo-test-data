@@ -124,7 +124,7 @@
             "id": "613991ab-59d7-4d2e-b589-24c318063171",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#e86215",
             "map": {
                 "patternName": "gaussian",
@@ -200,7 +200,7 @@
             "id": "85370d7c-f37f-4318-9d40-30aecd7e966f",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "stickyheptominos",
@@ -431,7 +431,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stretchydog",
                 "mapName": "Stretchydog",
@@ -583,7 +583,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -851,7 +851,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -1116,7 +1116,7 @@
             "id": "56849399-8ecc-4a42-b079-2b34ecf6d061",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "gaussian",
@@ -1233,7 +1233,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -1460,7 +1460,7 @@
             "id": "f4447331-1bca-440f-a386-d605c316e6fd",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "random",
@@ -1538,7 +1538,7 @@
             "id": "9f7eb069-8618-4594-9015-58150e460de8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "gaussian",
@@ -1842,7 +1842,7 @@
             "id": "82e4de6e-02a5-497e-87e1-8007ed2b6908",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#BB0000",
             "map": {
                 "patternName": "randomsegment",
@@ -1996,7 +1996,7 @@
             "id": "9d3c21e5-b961-46f7-be1a-97b9212baf9a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "stretchydog",
@@ -2149,7 +2149,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "South Perimeter",
@@ -2302,7 +2302,7 @@
             "id": "20b6e0ea-a217-4491-b82d-72a0513fbbc2",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#f2c57c",
             "map": {
                 "patternName": "stretchydog",
@@ -2568,7 +2568,7 @@
             "id": "3c9ac8f0-badb-4ac0-833d-f513dd36db2b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "random",
@@ -2837,7 +2837,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -2874,7 +2874,7 @@
             "id": "6d6afd4b-1008-4b43-b7e4-90b6eb7b933a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#BB0000",
             "map": {
                 "patternName": "randomsegment",
@@ -3218,7 +3218,7 @@
             "id": "53f996c1-8e44-40e0-8606-7b039a4a062d",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#ff1717",
             "team2Color": "#00cc44",
             "map": {
                 "patternName": "randomsegment",
@@ -3371,7 +3371,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#BB0000",
-            "team2Color": "#ff1717",
+            "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
