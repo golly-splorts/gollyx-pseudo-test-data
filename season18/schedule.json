@@ -109,7 +109,7 @@
             "id": "4b558b89-6af0-431d-b13b-552a90455e90",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e"
         },
         {
@@ -265,7 +265,7 @@
             "id": "22c75267-dac0-4aef-8591-74096541b5b7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7"
         },
         {
@@ -366,7 +366,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Parlier Inspectors",
@@ -507,7 +507,7 @@
             "id": "9d32735d-ab4c-44d9-8378-967b739ff6cf",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -678,7 +678,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Eldridge Equilibrators",
@@ -805,7 +805,7 @@
             "id": "c0a0eaf5-2d3f-479b-b6d1-63c045d44f5e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e"
         },
         {
@@ -961,7 +961,7 @@
             "id": "ce816c2c-cd73-4f3a-9e6b-87a815e52981",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7"
         },
         {
@@ -1132,7 +1132,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1259,7 +1259,7 @@
             "id": "f2a2a1b0-cf72-4c0c-8bfd-ac25c9c32059",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {

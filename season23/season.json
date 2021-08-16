@@ -276,7 +276,7 @@
             "id": "418bfff2-6951-4df2-b297-b9b8fa7f1179",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "methuselahsparse",
@@ -697,7 +697,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -1041,7 +1041,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "methuselahdense",
                 "mapName": "Dance Hall",
@@ -1423,7 +1423,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -1843,7 +1843,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -2186,7 +2186,7 @@
             "id": "c1feeeab-3144-4e47-ba78-97703d169910",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "nastynonominos",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -2875,7 +2875,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Candy Garden",
@@ -3370,7 +3370,7 @@
             "id": "cb6ba973-e770-4c76-833b-75e1807f624d",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7",
             "map": {
                 "patternName": "gaussian",
