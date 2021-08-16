@@ -137,7 +137,7 @@
             "id": "19e4c970-fe6d-47ad-a4e6-42b498919002",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#f08700"
         }
     ],
@@ -238,7 +238,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Foresthill Shooting Stars",
@@ -380,7 +380,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Soquel Dead Presidents",
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Brownsville Oxidation",
@@ -650,7 +650,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Lenwood Pipefitters",
@@ -791,7 +791,7 @@
             "id": "0218665a-e8bc-48b4-a2a8-f78fa97a941b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e"
         },
         {
@@ -989,7 +989,7 @@
             "id": "03ec6e5b-642d-4f3e-bb11-1bf7fcb8e9d3",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         }
     ],
@@ -1132,7 +1132,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1273,7 +1273,7 @@
             "id": "fb738733-9f22-4092-8323-a653d2ec31fc",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21"
         }
     ]

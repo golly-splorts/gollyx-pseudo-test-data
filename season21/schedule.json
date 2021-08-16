@@ -110,7 +110,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -223,7 +223,7 @@
             "id": "21cbb938-be30-4a86-8e7f-ce61c1e4fd66",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -365,7 +365,7 @@
             "id": "d6a6dd22-4abb-4409-88aa-e5c3505e0be7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#53917e"
         },
         {
@@ -535,7 +535,7 @@
             "id": "1fa69eef-3753-429a-8858-3386ed68088a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -706,7 +706,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -833,7 +833,7 @@
             "id": "af305ce5-ea88-4010-b783-25b29156cff7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627"
         },
         {
@@ -976,7 +976,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#697a21",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Biggs Devils",
@@ -1131,7 +1131,7 @@
             "id": "5ca6e544-14a8-46ae-80fa-da51f519c948",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#e8a0e7"
         }
     ],
@@ -1246,7 +1246,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ffb627",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Eldridge Equilibrators",

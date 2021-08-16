@@ -353,7 +353,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "South Perimeter",
@@ -658,7 +658,7 @@
             "id": "1f1fb514-4023-4df0-85f7-9a9c39675b06",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "gaussian",
@@ -1003,7 +1003,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "nastynonominos",
                 "mapName": "The Filthy McNasty",
@@ -1347,7 +1347,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "randompartition",
                 "mapName": "Northeast Hellmouth's Revenge",
@@ -1880,7 +1880,7 @@
             "id": "f9fcfc19-7af1-4bbb-a58e-53acbc0debbb",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "sunburst",
@@ -2263,7 +2263,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "random",
                 "mapName": "Northeast Hellmouth",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000",
+            "team2Color": "#ff1717",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -3026,7 +3026,7 @@
             "id": "2758d0d5-1548-493e-b7b6-97fd0c90c33c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "randompartition",
@@ -3408,7 +3408,7 @@
             "id": "a6ff585a-c16b-4b12-9502-67e52c2c293e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "randomsegment",

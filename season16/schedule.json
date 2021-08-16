@@ -96,7 +96,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Foresthill Shooting Stars",
@@ -279,7 +279,7 @@
             "id": "da81fa09-86dc-4fee-b80d-8900544e1cc6",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         }
     ],
@@ -366,7 +366,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -535,7 +535,7 @@
             "id": "55444fa2-5399-4ab5-98a0-1253466598c7",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -678,7 +678,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -847,7 +847,7 @@
             "id": "66577dd3-3943-4d01-a180-45f5851f13b3",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         }
     ],
@@ -948,7 +948,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#e8a0e7",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Biggs Devils",
@@ -1089,7 +1089,7 @@
             "id": "edaf16c7-7d32-4565-9fe4-ce3df6ec2458",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1231,7 +1231,7 @@
             "id": "eb477f8c-085c-4614-8598-434cf7ae332b",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {
