@@ -53,7 +53,7 @@
             "id": "613991ab-59d7-4d2e-b589-24c318063171",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215"
         },
         {
@@ -168,7 +168,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Pacheco Choo Choos",
@@ -324,7 +324,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Livingston Necessities",
@@ -466,7 +466,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#00cc44",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -579,7 +579,7 @@
             "id": "9f7eb069-8618-4594-9015-58150e460de8",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#9963ab"
         },
         {
@@ -749,7 +749,7 @@
             "id": "9d3c21e5-b961-46f7-be1a-97b9212baf9a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1"
         },
         {
@@ -863,7 +863,7 @@
             "id": "20b6e0ea-a217-4491-b82d-72a0513fbbc2",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1062,7 +1062,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Eldridge Equilibrators",
@@ -1203,7 +1203,7 @@
             "id": "53f996c1-8e44-40e0-8606-7b039a4a062d",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {

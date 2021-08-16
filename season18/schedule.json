@@ -68,7 +68,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -209,7 +209,7 @@
             "id": "bf010f34-2da5-4918-9fd8-7ced712b77d6",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -352,7 +352,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -493,7 +493,7 @@
             "id": "958d1bca-fcd1-4998-8202-0352773663ec",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#fefe67"
         },
         {
@@ -621,7 +621,7 @@
             "id": "9d4e623c-001e-45d9-8217-8a930baa9c03",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -763,7 +763,7 @@
             "id": "484ceb2b-c768-4ac5-b9d1-cbbc11167b96",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#00cc44"
         },
         {
@@ -877,7 +877,7 @@
             "id": "b4200a70-4da5-42d4-a29d-c5c8bf447f22",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e7d7c1"
         },
         {
@@ -1020,7 +1020,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Bolinas Zeros",
@@ -1190,7 +1190,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ff1717"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Bolinas Zeros",

@@ -86,7 +86,7 @@
             "id": "c4b820f4-4e04-4584-8d70-874c3d6b3aef",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#f2c57c",
             "map": {
                 "patternName": "patiolights",
@@ -469,7 +469,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#9963ab",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "stickyheptominos",
                 "mapName": "Sticky Fingers",
@@ -813,7 +813,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "lockpickfence",
                 "mapName": "The Locksmith",
@@ -1308,7 +1308,7 @@
             "id": "5b3552e8-44a9-4ac1-a560-3e2a600f172a",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#e86215",
             "map": {
                 "patternName": "gaussian",
@@ -1576,7 +1576,7 @@
             "id": "ea0bda93-83ae-4f30-ba88-e7a67f653d50",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "random",
@@ -2034,7 +2034,7 @@
             "id": "41467b43-90b0-477a-962b-43667aca8fc0",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#3e92cc",
             "map": {
                 "patternName": "randompartition",
@@ -2340,7 +2340,7 @@
             "id": "5f5f7b55-3cf1-475e-ba07-8d5e4fa52936",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#ff66cc",
             "map": {
                 "patternName": "patiolights",
@@ -2837,7 +2837,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#fefe67",
-            "team2Color": "#ff1717",
+            "team2Color": "#bb0000",
             "map": {
                 "patternName": "gaussian",
                 "mapName": "The Gaussian",
@@ -3142,7 +3142,7 @@
             "id": "5153fbd6-bd33-4542-a4f1-3447765d90e7",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#bb0000",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "randompartition",
