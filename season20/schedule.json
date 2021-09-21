@@ -11,7 +11,7 @@
             "id": "509cf6f1-091c-4726-b9aa-45762b6373b9",
             "isPostseason": false,
             "league": "Monterey Bay League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#bb0000",
             "team2Color": "#ff66cc"
         },
         {
@@ -123,7 +123,7 @@
             "id": "e2017002-1e39-40dd-be55-68c80b082798",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#b0b0b0"
         },
         {
@@ -137,7 +137,7 @@
             "id": "33d2f45c-f5b0-4e57-8985-5a9ff79eb1e5",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199"
         }
     ],
@@ -168,7 +168,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e86215",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Chualar Penguins",
@@ -251,7 +251,7 @@
             "id": "aa45dfdb-bdc4-4b00-a4b2-ab0e197ec56a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199"
         },
         {
@@ -280,7 +280,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         }
     ],
     [
@@ -338,7 +338,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Pacheco Choo Choos",
@@ -380,7 +380,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#d41199",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Brownsville Oxidation",
@@ -394,7 +394,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#0dab76",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         },
         {
             "team1Name": "Tahoe Vista Kiltmenders",
@@ -452,7 +452,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Livingston Necessities",
@@ -521,7 +521,7 @@
             "id": "268a704e-4d00-4fc4-8024-ea40fd47e6d4",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#0dab76"
         },
         {
@@ -563,7 +563,7 @@
             "id": "52fe7457-6162-4cfb-8648-be0863ce60d2",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#53917e"
         }
     ],
@@ -622,7 +622,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#3e92cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -650,7 +650,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         },
         {
             "team1Name": "Hamilton City Oceanographics",
@@ -706,7 +706,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#53917e",
-            "team2Color": "#ff1717"
+            "team2Color": "#e8a0e7"
         }
     ],
     [
@@ -736,7 +736,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Woodville Outhouses",
@@ -791,7 +791,7 @@
             "id": "e32df1b7-aabe-4cfc-8ad6-670585f9e881",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#f08700"
         },
         {
@@ -833,7 +833,7 @@
             "id": "ef03bb7b-7289-41a8-ac08-40462896bb2c",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {
@@ -878,7 +878,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Lagunitas Boat Shoes",
@@ -975,7 +975,7 @@
             "id": "ef2187b4-b45c-4f26-a6b3-ff95ba6f94e0",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#d41199"
         },
         {
@@ -990,7 +990,7 @@
             "isPostseason": false,
             "league": "San Francisco Bay League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#BB0000"
+            "team2Color": "#ff1717"
         }
     ],
     [
@@ -1048,7 +1048,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Chualar Penguins",
@@ -1075,7 +1075,7 @@
             "id": "67df40fa-35b4-488a-b33e-c01352ab860a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#ffb627"
         },
         {
@@ -1131,7 +1131,7 @@
             "id": "4cd87e47-33ed-4ea9-b72a-190b2862e79e",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#d41199"
         }
     ],
@@ -1176,7 +1176,7 @@
             "isPostseason": false,
             "league": "Monterey Bay League",
             "team1Color": "#f2c57c",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#bb0000"
         },
         {
             "team1Name": "Talmage Face Touchers",
@@ -1217,7 +1217,7 @@
             "id": "4665e3c0-92ae-4fd5-ab34-c3e9aa028116",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#BB0000",
+            "team1Color": "#ff1717",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1231,7 +1231,7 @@
             "id": "dd59f4ee-0887-48d1-bfdd-8e9db678a11a",
             "isPostseason": false,
             "league": "San Francisco Bay League",
-            "team1Color": "#ff1717",
+            "team1Color": "#e8a0e7",
             "team2Color": "#f08700"
         },
         {

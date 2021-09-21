@@ -2,7 +2,7 @@
     {
         "teamAbbr": "ST",
         "teamName": "Shandon Intellectuals",
-        "teamColor": "#BB0000",
+        "teamColor": "#ff1717",
         "league": "San Francisco Bay League",
         "division": "Low Division"
     },
@@ -51,7 +51,7 @@
     {
         "teamAbbr": "RS",
         "teamName": "Eldridge Equilibrators",
-        "teamColor": "#ff1717",
+        "teamColor": "#e8a0e7",
         "league": "San Francisco Bay League",
         "division": "High Division"
     },
@@ -135,7 +135,7 @@
     {
         "teamAbbr": "SCS",
         "teamName": "Rodeo Glasgows",
-        "teamColor": "#a0e7e8",
+        "teamColor": "#bb0000",
         "league": "Monterey Bay League",
         "division": "Low Division"
     }
